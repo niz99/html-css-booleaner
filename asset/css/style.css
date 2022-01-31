@@ -28,3 +28,11 @@
 .name{
     color: rgb(116, 116, 116);
 }
+.tim{
+    margin-top: 25px;
+}
+
+.img-tim{
+    width: 40%;
+    height: 600px;
+}
