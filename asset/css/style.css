@@ -28,7 +28,7 @@ body{
     font-size: 100px;
 }
 
-.name{
+.color-grey{
     color: rgb(116, 116, 116);
 }
 .tim{
@@ -74,4 +74,24 @@ table{
 
 .second-row{
     background-color: rgb(164, 223, 238);
+}
+
+.monitor{
+    background-image: url('../img/monitor.jpg');
+    width: 312px;
+    height: 208px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.img-title{
+    font-size: 30px;
+    color: white;
+}
+
+.graph{
+    background-image: url('../img/graph.jpg');
+    width: 311px;
+    height: 207px;
+    padding: 10px;
 }
