@@ -18,6 +18,13 @@ main{
     background-color: rgb(63, 139, 255);
     background-image: url('../img/pattern.png');
     height: 180px;
+    
+}
+
+.center-logo{
+    width: 60%;
+    margin: auto;
+    height: 180px;
     position: relative;
 }
 
