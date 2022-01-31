@@ -46,3 +46,24 @@ span{
     background-color: yellow;
 }
 
+
+table{
+    width: 100%;
+}
+
+.first-row{
+    color: white;
+    background-color: rgb(31, 151, 222);
+}
+
+.small-column{
+    width: 20%;
+}
+
+.big-column{
+    width: 50%;
+}
+
+.second-row{
+    background-color: rgb(164, 223, 238);
+}
