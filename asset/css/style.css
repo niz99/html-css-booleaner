@@ -5,7 +5,10 @@
     box-sizing: border-box;
 }
 /* fine reset */
-body{
+
+
+
+main{
     margin: 40px;
 }
 
@@ -28,21 +31,27 @@ body{
     font-size: 100px;
 }
 
+.link{
+        text-decoration: none;
+}
+
 .color-grey{
     color: rgb(116, 116, 116);
 }
+
 .tim{
     margin-top: 25px;
 }
 
 .img-tim{
-    width: 40%;
-    height: 600px;
+    width: auto;
+    height: 750px;
 }
 
 .lorem{
     font-size: 40px;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .list{
@@ -57,6 +66,7 @@ span{
 
 table{
     width: 100%;
+    font-size: 40px;
 }
 
 .first-row{
